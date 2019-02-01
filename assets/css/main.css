@@ -497,9 +497,9 @@ hr {
 
 .sidebar .nav li.active>a:before,
 .off-canvas-sidebar .nav li.active>a:before {
-    border-right: 17px solid #DDDDDD;
+    /* border-right: 17px solid #DDDDDD;
     border-top: 17px solid transparent;
-    border-bottom: 17px solid transparent;
+    border-bottom: 17px solid transparent; */
     content: "";
     display: inline-block;
     position: absolute;
@@ -510,9 +510,9 @@ hr {
 .sidebar .nav li.active>a:after,
 .off-canvas-sidebar .nav li.active>a:after {
     /* border-right: 17px solid #f4f3ef; */
-    border-right: 17px solid #fff;
+    /* border-right: 17px solid #fff;
     border-top: 17px solid transparent;
-    border-bottom: 17px solid transparent;
+    border-bottom: 17px solid transparent; */
     content: "";
     display: inline-block;
     position: absolute;
