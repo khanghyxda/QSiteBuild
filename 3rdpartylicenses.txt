@@ -951,7 +951,7 @@ SOFTWARE.
 MIT
 MIT
 
-@angular/animations@8.0.0-beta.2
+@angular/animations@7.0.0-rc.0
 MIT
 MIT
 
